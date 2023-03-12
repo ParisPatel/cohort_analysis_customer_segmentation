@@ -1,2 +1,2 @@
-# Cohort Analysisand Customer Segmentation
+# Cohort Analysis and Customer Segmentation
  
